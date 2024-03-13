@@ -315,13 +315,6 @@ the Beat!**
   />
 </p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=athrey-navda&show_icons=true&locale=en"
-    alt="athrey-navda"
-  />
-</p>
 
 <p>
   <img
