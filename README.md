@@ -4,14 +4,6 @@
   University. Graduating Dec '24.
 </h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=athrey-navda"
-      alt="athrey-navda"
-  /></a>
-</p>
-
 - 🔭 I’m currently working on [Rapid Cloudify](http://rapidcloudify.com/) - 👨‍💻
 All of my projects are available at
 [https://portfolio-rho-swart.vercel.app/](https://portfolio-rho-swart.vercel.app/)
