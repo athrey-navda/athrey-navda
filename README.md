@@ -4,15 +4,13 @@
   University. Graduating Dec '24.
 </h3>
 
-- 🔭 I’m currently working on [Rapid Cloudify](http://rapidcloudify.com/) - 👨‍💻
-All of my projects are available at
-[https://portfolio-rho-swart.vercel.app/](https://portfolio-rho-swart.vercel.app/)
-- 💬 Ask me about **reactjs, nextjs, tailwind css, bootstrap css, nodejs,
-javascript** - 📫 How to reach me **bnavda@gmu.edu or +1-5719210917** - 📄 Know
-about my experiences
-[https://portfolio-rho-swart.vercel.app/file/ByndoorAthreyNavda_Resume.pdf](https://portfolio-rho-swart.vercel.app/file/ByndoorAthreyNavda_Resume.pdf)
-- ⚡ Fun fact **Crafting Code! Exploring Worlds! Cooking Creations! Grooving to
-the Beat!**
+- 🔭 I’m currently working on [Rapid Cloudify](http://rapidcloudify.com/)
+- 
+- 👨‍💻 All of my projects are available at [https://portfolio-rho-swart.vercel.app/](https://portfolio-rho-swart.vercel.app/)
+- 💬 Ask me about **reactjs, nextjs, tailwind css, bootstrap css, nodejs, javascript**
+- 📫 How to reach me **bnavda@gmu.edu or +1-5719210917**
+- 📄 Knowabout my experiences [https://portfolio-rho-swart.vercel.app/file/ByndoorAthreyNavda_Resume.pdf](https://portfolio-rho-swart.vercel.app/file/ByndoorAthreyNavda_Resume.pdf)
+- ⚡ Fun fact **Crafting Code! Exploring Worlds! Cooking Creations! Grooving to the Beat!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
