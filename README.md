@@ -27,11 +27,11 @@
 
 <p align="left">
   <a
-    href="[https://linkedin.com/in/byndoor-athrey-navda-5068a0130/](https://leetcode.com/u/athrey-navda/)"
+    href="https://linkedin.com/in/byndoor-athrey-navda-5068a0130/](https://leetcode.com/u/athrey-navda/"
     target="blank"
     > <img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://assets.leetcode.com/static_assets/public/images/LeetCode_Sharing.png"
+      src="https://assets.leetcode.com/static_assets/public/images/LeetCode_Sharing.png"
       alt="byndoor-athrey-navda-5068a0130/"
       height="30"
       width="40"
