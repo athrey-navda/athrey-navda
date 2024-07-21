@@ -26,6 +26,16 @@ the Beat!**
       height="30"
       width="40"
   /></a>
+   <a
+    href="https://linkedin.com/in/byndoor-athrey-navda-5068a0130/](https://leetcode.com/u/athrey-navda/"
+    target="blank"
+    ><img
+      align="center"
+      src="https://assets.leetcode.com/static_assets/public/images/LeetCode_Sharing.png"
+      alt="byndoor-athrey-navda"
+      height="30"
+      width="40"
+  /></a>
 </p>
 
 - **Programming Languages:** JavaScript, TypeScript, Python, Java, C++
