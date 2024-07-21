@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Rapid Cloudify](http://rapidcloudify.com/)
 - 👨‍💻 All of my projects are available at [https://portfolio-rho-swart.vercel.app/](https://portfolio-rho-swart.vercel.app/)
-- 💬 Ask me about **reactjs, nextjs, tailwind css, bootstrap css, nodejs, javascript**
+- 💬 Ask me about **Front-End Dev or Back-End Dev**
 - 📫 How to reach me **bnavda@gmu.edu or +1-5719210917**
 - 📄 Knowabout my experiences [https://portfolio-rho-swart.vercel.app/file/ByndoorAthreyNavda_Resume.pdf](https://portfolio-rho-swart.vercel.app/file/ByndoorAthreyNavda_Resume.pdf)
 - ⚡ Fun fact **Crafting Code! Exploring Worlds! Cooking Creations! Grooving to the Beat!**
