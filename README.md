@@ -29,20 +29,13 @@
   <a
     href="[https://linkedin.com/in/byndoor-athrey-navda-5068a0130/](https://leetcode.com/u/athrey-navda/)"
     target="blank"
-    > <svg
-                          xmlns="http://www.w3.org/2000/svg"
-                          fill="none"
-                          viewBox="0 0 24 24"
-                          strokeWidth={1.5}
-                          stroke="currentColor"
-                          className="size-6"
-                        >
-                          <path
-                            strokeLinecap="round"
-                            strokeLinejoin="round"
-                            d="M17.25 6.75 22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3-4.5 16.5"
-                          />
-                        </svg></a>
+    > <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://assets.leetcode.com/static_assets/public/images/LeetCode_Sharing.png"
+      alt="byndoor-athrey-navda-5068a0130/"
+      height="30"
+      width="40"
+  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
