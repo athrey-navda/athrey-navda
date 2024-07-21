@@ -1,3 +1,14 @@
+<style>
+  .image-row {
+    display: flex;
+    gap: 20px;
+  }
+  .image-row img {
+    width: 100px;
+    height: 100px;
+  }
+</style>
+
 <h1 align="center">Hi 👋, I'm Byndoor Athrey Navda</h1>
 <h3 align="center">
   Experienced Software Engineer. MS in Computer Science at George Mason
