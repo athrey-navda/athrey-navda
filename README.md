@@ -27,7 +27,7 @@ the Beat!**
       width="40"
   /></a>
    <a
-    href="https://linkedin.com/in/byndoor-athrey-navda-5068a0130/](https://leetcode.com/u/athrey-navda/"
+    href="https://leetcode.com/u/athrey-navda/"
     target="blank"
     ><img
       align="center"
@@ -39,13 +39,17 @@ the Beat!**
 </p>
 
 - **Programming Languages:** JavaScript, TypeScript, Python, Java, C++
-- **Frontend Development:** React, Next.js, Redux, Chart.js, HTML5, CSS, Tailwind, Bootstrap, PHP, jQuery 
-- **Backend Development:** Node.js, Express.js, GraphQL, JSON, XML, REST APIs, WebSockets, Firebase 
+- **Frontend Development:** React, Next.js, Redux, Angular, Chart.js, HTML5, CSS, Tailwind, Bootstrap, PHP, jQuery
+- **Backend Development:** Node.js, Express.js, GraphQL, JSON, XML, REST APIs, WebSockets, Firebase
 - **Database:** SQL (MySQL, PostgreSQL), MongoDB
-- **Cloud:** AWS (S3, EC2, IAM, SES, DynamoDB), Digital Ocean 
+- **Cloud:** AWS (S3, EC2, IAM, SES, DynamoDB), GCP, Digital Ocean
 - **Security:** JWT, OAuth 
-- **Containerization:** Docker, Kubernetes 
+- **Containerization:** Docker, Kubernetes
+- **Data Visualization** : Chart.js
+- **Build Tools**: Webpack, Vite
+- **Agile Methodology**: Scrum, Kanban
 - **Design:** Figma
+- **CI/CD & Testing** : Jenkins, GitHub Webhooks, Jest, Selenium
 
 <h3> Detailed information : (https://portfolio-rho-swart.vercel.app)</h3>
 <p>
