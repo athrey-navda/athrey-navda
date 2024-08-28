@@ -39,7 +39,7 @@ the Beat!**
 </p>
 
 - **Programming Languages:** JavaScript, TypeScript, Python, Java, C++
-- **Frontend Development:** React, Next.js, Redux, Angular, Chart.js, HTML5, CSS, Tailwind, Bootstrap, PHP, jQuery
+- **Frontend Development:** React, Next.js, Redux, Angular, HTML, CSS, Tailwind, Bootstrap, PHP, jQuery
 - **Backend Development:** Node.js, Express.js, GraphQL, JSON, XML, REST APIs, WebSockets, Firebase
 - **Database:** SQL (MySQL, PostgreSQL), MongoDB
 - **Cloud:** AWS (S3, EC2, IAM, SES, DynamoDB), GCP, Digital Ocean
@@ -49,7 +49,7 @@ the Beat!**
 - **Build Tools**: Webpack, Vite
 - **Agile Methodology**: Scrum, Kanban
 - **Design:** Figma
-- **CI/CD & Testing** : Jenkins, GitHub Webhooks, Jest, Selenium
+- **CI/CD & Testing** : Jenkins, GitHub Webhooks, Cypress
 
 <h3> Detailed information : (https://portfolio-rho-swart.vercel.app)</h3>
 <p>
