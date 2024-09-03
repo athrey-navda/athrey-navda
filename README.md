@@ -40,7 +40,7 @@ the Beat!**
 
 - **Programming Languages:** JavaScript, TypeScript, Python, Java, C++
 - **Frontend Development:** React, Next.js, Redux, Angular, HTML, CSS, Tailwind, Bootstrap, PHP, jQuery
-- **Backend Development:** Node.js, Express.js, GraphQL, JSON, XML, REST APIs, WebSockets, Firebase
+- **Backend Development:** Node.js, Express.js, GraphQL, JSON, XML, REST APIs, Supabase, WebSockets, Firebase
 - **Database:** SQL (MySQL, PostgreSQL), MongoDB
 - **Cloud:** AWS (S3, EC2, IAM, SES, DynamoDB), GCP, Digital Ocean
 - **Security:** JWT, OAuth 
