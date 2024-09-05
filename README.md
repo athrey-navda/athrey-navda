@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Byndoor Athrey Navda</h1>
 <h3 align="center">
-  Experienced Software Engineer. MS in Computer Science at George Mason
+  Experienced Software Engineer. Master of Science in Computer Science at George Mason
   University. Graduating Dec '24.
 </h3>
 
