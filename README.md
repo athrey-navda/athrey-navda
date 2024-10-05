@@ -8,11 +8,10 @@
 - 🔭 I’m currently working at IFEES and GEDC as Internation Program Associate taking care of Softeware Development Works and my personal project called [Rapid Cloudify](http://rapidcloudify.com/) 
 - 👨‍💻 All of my projects are available at
 [https://portfolio-rho-swart.vercel.app/](https://portfolio-rho-swart.vercel.app/)
-- 💬 Ask me about **Front-End Dev or Back-End Dev** - 📫 How to reach me
-**bnavda@gmu.edu or +1-5719210917** - 📄 Knowabout my experiences
-[https://portfolio-rho-swart.vercel.app/file/Resume_ByndoorAthreyNavda.pdf](https://portfolio-rho-swart.vercel.app/file/Resume_ByndoorAthreyNavda.pdf)
-- ⚡ Fun fact **Crafting Code! Exploring Worlds! Cooking Creations! Grooving to
-the Beat!**
+- 💬 Ask me about **Front-End Dev or Back-End Dev** 
+- 📫 How to reach me **bnavda@gmu.edu or +1-5719210917** 
+- 📄 Knowabout my experiences [https://portfolio-rho-swart.vercel.app/file/Resume_ByndoorAthreyNavda.pdf](https://portfolio-rho-swart.vercel.app/file/Resume_ByndoorAthreyNavda.pdf)
+- ⚡ Fun fact **Crafting Code! Exploring Worlds! Cooking Creations! Grooving to the Beat!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
