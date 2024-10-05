@@ -5,7 +5,7 @@
   University. Graduating Dec '24.
 </h3>
 
-- 🔭 I’m currently working on [Rapid Cloudify](http://rapidcloudify.com/) - 👨‍💻
+- 🔭 I’m currently working at IFEES and GEDC as Internation Program Associate taking care of Softeware Development Works and my personal project called [Rapid Cloudify](http://rapidcloudify.com/) - 👨‍💻
 All of my projects are available at
 [https://portfolio-rho-swart.vercel.app/](https://portfolio-rho-swart.vercel.app/)
 - 💬 Ask me about **Front-End Dev or Back-End Dev** - 📫 How to reach me
@@ -40,7 +40,7 @@ the Beat!**
 
 - **Programming Languages:** JavaScript, TypeScript, Python, Java, C++
 - **Frontend Development:** React, Next.js, Redux, Angular, HTML, CSS, Tailwind, Bootstrap, PHP, jQuery
-- **Backend Development:** Node.js, Express.js, GraphQL, JSON, XML, REST APIs, Supabase, WebSockets, Firebase
+- **Backend Development:** Node.js, Express.js, GraphQL, Swagger, JSON, XML, REST APIs, Supabase, WebSockets, Firebase
 - **Database:** SQL (MySQL, PostgreSQL), MongoDB
 - **Cloud:** AWS (S3, EC2, IAM, SES, DynamoDB), GCP, Digital Ocean
 - **Security:** JWT, OAuth 
